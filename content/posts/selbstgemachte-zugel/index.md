@@ -3,7 +3,7 @@ title = "Selbstgemachte Zügel "
 date = "2023-09-14"
 draft = false
 pinned = false
-image = "8a4f9abd-1572-4256-a9ea-ee2fe49b368e.jpg"
+image = "f42c5a80-e9ac-46e4-9af7-c13172cb2473.jpeg"
 +++
 Aus insgesamt 40 m Schnur habe ich Zügel geknüpft. 
 
