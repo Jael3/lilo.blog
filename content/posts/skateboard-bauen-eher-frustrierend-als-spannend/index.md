@@ -1,5 +1,5 @@
 +++
-title = "Skateboard bauen - Eher Frustrierend als spannend"
+title = "Skateboard bauen - Eher frustrierend als spannend"
 date = "2023-11-20"
 draft = false
 pinned = false
