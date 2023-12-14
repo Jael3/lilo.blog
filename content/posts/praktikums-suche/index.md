@@ -1,8 +1,9 @@
 +++
 title = "Praktikums Suche"
 date = "2023-12-13"
-draft = true
+draft = false
 pinned = false
+image = "d2c1d549-fd05-4ea4-90d8-de04ecb86f11.jpg"
 +++
 Letzten Frühling habe ich angefangen, mich auf die Suche nach einem Praktikumsplatz zu machen. Was ich eigentlich suche, ist ein Hof, der in mein Weltbild der Pferde passt und am besten Französischsprachig ist. Ich habe einen Hof gefunden, der in Frankreich, etwa 80 km von der Schweizer Grenze entfernt, liegt. Diesen Hof habe ich angeschrieben und wir haben auch schon ein Datum abgemacht, um uns kennenzulernen. Leider hat sie mir dann kurzfristig, wegen Krankheit, abgesagt. 
 
