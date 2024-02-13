@@ -1,7 +1,7 @@
 +++
 title = "Meine Reisen 2014/2015 und 2022"
 date = "2024-01-23"
-draft = false
+draft = true
 pinned = false
 image = "8d5e54d5-924d-415e-8723-06fdb2a8b299.jpeg"
 +++
