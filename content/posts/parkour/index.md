@@ -3,7 +3,7 @@ title = "Parkour"
 date = "2024-03-13"
 draft = false
 pinned = false
-image = "e1908375-79d2-4bd2-94e7-584b1a3faba5.jpeg"
+image = "e1908375-79d2-4bd2-94e7-584b1a3faba5_1_201_a.jpeg"
 +++
 Neben dem Reiten habe ich noch ein anderes Hobby, welches mir sehr viel Spass bereitet. Parkour. Ich mache Parkour mittlerweile seit etwas mehr als einem Jahr. Ursprünglich habe ich damit begonnen, zum Ausgleich neben dem Reiten. Dieser Sport macht mir unglaublich viel Spass, ich kann mich bewegen, auspowern und Kraft aufbauen. Es ist aber nicht nur das, ich lerne auch meine Grenzen kennen und darüber hinauszugehen. Es ist nicht immer einfach, mich am Abend noch zu überwinden, bei Regen und Kälte noch herauszugehen. Denn wir trainieren bei jedem Wetter draussen. Das hat den Vorteil, dass wir die verschiedenen Untergründe, wie Mauern und Stangen, in verschiedenen Zuständen kennenlernen und daher ein grösseres Vertrauen aufbauen können. 
 
