@@ -1,9 +1,9 @@
 +++
 title = "Ein Tag als Snowboardlehrerin"
 date = "2024-03-27"
-draft = true
+draft = false
 pinned = false
-image = ""
+image = "3401e8ec-2070-4f1a-8b27-37b6332738b1.jpeg"
 +++
 Letzten Sonntag war ich mit drei Freunden snowboarden. Zwei davon waren bisher nicht richtig geübt. Lea, die eine davon, stand an diesem Tag das allererste Mal auf einem Snowboard. Wir gingen früh von uns zu Hause los und waren dann um ca. 8.45 Uhr in Rosswald. Als Erstes haben wir ihr ein Snowboard gemietet und sind dann einen kleinen Hügel hoch gelaufen, damit sie sich an das Gefühl vom Snowboard gewöhnen konnte. Das Zweite und dritte Mal hat sie dann schon, zusammen mit etwas Hilfe, Kurven gemacht. 
 
